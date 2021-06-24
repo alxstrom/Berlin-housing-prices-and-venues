@@ -1,2 +1,2 @@
-# Coursera_Capstone
-This repository was created for the Coursera Capstone Project on Data Science with Python
+# Coursera Capstone
+Coursera Capstone Project on IBM Data Science with Python about housing prices, demographic structures and venues in Berlin, Germany.
